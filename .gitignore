@@ -2,4 +2,4 @@ Dockerfile
 docker-compose.yml
 /app/venv
 .dockerignore
-.env
+./app/env
